@@ -1,1 +1,6 @@
-# -Programming-Assignment-2-Handwritten-Digit-Recognition-
+##### Programming-Assignment-2 #
+--------------------------------
+<ol>
+  這與人工智慧的選修當中一些內容十分接近,雖然我沒有修人工智慧,但有去旁聽,勉強明白當中的意思
+ 
+</ol>
